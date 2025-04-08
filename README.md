@@ -36,7 +36,7 @@ A modern mobile application for finding and booking parking spots. Built with Re
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/parksmart-app.git
+   git clone [https://github.com/yourusername/parksmart-app.git](https://github.com/mctria/ps-app.git)
    cd parksmart-app
    ```
 
